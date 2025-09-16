@@ -177,21 +177,6 @@ The app uses **Riverpod** for state management with the following providers:
 - `contactProvider`: Manages contact list state and database operations
 - `bottomNavProvider`: Handles bottom navigation tab switching
 
-## Future Enhancements
-
-### 🚀 Planned Features
-- Contact search and filtering
-- Contact export/import functionality
-- Cloud backup integration
-- Advanced OCR improvements
-- Contact grouping/categories
-- Dark theme support
-
-### 🔧 Technical Improvements
-- Unit and widget testing
-- Performance optimizations
-- Accessibility enhancements
-- Internationalization support
 
 ## Contributing
 
